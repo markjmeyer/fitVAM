@@ -1,0 +1,20 @@
+Package: fitVAM
+Title: Fitting and Testing Variational Additive Models
+Version: 0.0.0.9000
+Authors@R: 
+    person("Mark J.", "Meyer", , "mjm556@georgetown.edu", role = c("aut", "cre", "cph"),
+           comment = c(ORCID = "0000-0003-3942-9675"))
+Description: Methods for estimating variational additive models with an arbitrary number of smoothed semiparametric and 
+    functional effects using a mean field variational Bayesian approximation and a coordinate ascent variational inference (CAVI)
+    algorithm. Other tools include a testing procedure that relies on a frequentist test for semiparametric effects. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Imports: 
+    Matrix,
+    numbers,
+    splines
+Suggests: 
+    refund,
+    SemiPar
