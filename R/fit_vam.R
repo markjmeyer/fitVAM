@@ -70,7 +70,7 @@
 #'    \code{fe.spline} \tab argument `fe.spline`. \cr
 #' }
 #'
-#' @references Meyer, MJ and Wei, J (2024). Global tests for smoothed functions in mean field variational additive models. \emph{Available on arXiv} at \url{https://arxiv.org/abs/}
+#' @references Meyer, MJ and Wei, J (2024). Global tests for smoothed functions in mean field variational additive models. \emph{Available on arXiv} at \url{https://arxiv.org/abs/2406.08168}
 #'
 #' @examples
 #' ##### Semiparametric Effect #####
